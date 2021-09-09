@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Acydko
-- 👀 I’m interested in learning Python and Sonic-Pi software.
-- 🌱 I’m currently learning Python and Sonic-Pi software.
-- 💞️ Creator of the online page @livecode.state on Instagram, a page created to spread livecoding music.
-- 📫 How to reach me? You can DM me on Instagram at @Acydko
+ 👋 Hi, I’m @Acydko
+ 👀 I’m interested in learning Python and Sonic-Pi software.
+ 🌱 I’m currently learning Python and Sonic-Pi software.
+ 💞️ Creator of the online page @livecode.state on Instagram, a page created to spread livecoding music.
+ 📫 How to reach me? You can DM me on Instagram at @Acydko
 
 
 - Something about me -
