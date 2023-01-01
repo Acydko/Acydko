@@ -1,8 +1,8 @@
- 👋 Hi, I’m @Acydko
+ 👋 Hi, I’m @Furukoh
  👀 I’m interested in learning Python and Sonic-Pi software.
  🌱 I’m currently learning Python and Sonic-Pi software.
  💞️ Creator of the online page @livecode.state on Instagram, a page created to spread livecoding music.
- 📫 How to reach me? You can DM me on Instagram at @Acydko
+ 📫 How to reach me? You can DM me on Instagram at @Furukoh
 
 
 - Something about me -
@@ -15,7 +15,7 @@ I love anime, mangas and videogames.
 ⣿⡇⣿⣿⣿⠛⠁⣴⣿⡿⠿⠧⠹⠿⠘⣿⣿⣿⡇⢸⡻⣿⣿⣿⣿⣿⣿⣿       .....................
 ⢹⡇⣿⣿⣿⠄⣞⣯⣷⣾⣿⣿⣧⡹⡆⡀⠉⢹⡌⠐⢿⣿⣿⣿⡞⣿⣿⣿       .HAVE A GOOD DAY! <3........................................
 ⣾⡇⣿⣿⡇⣾⣿⣿⣿⣿⣿⣿⣿⣿⣄⢻⣦⡀⠁⢸⡌⠻⣿⣿⣿⡽⣿⣿      .If you like electronic music make sure to check my IG page:.
-⡇⣿⠹⣿⡇⡟⠛⣉⠁⠉⠉⠻⡿⣿⣿⣿⣿⣿⣦⣄⡉⠂⠈⠙⢿⣿⣝⣿    .@livecode.state and my profile @Acydko with youtube link!.
+⡇⣿⠹⣿⡇⡟⠛⣉⠁⠉⠉⠻⡿⣿⣿⣿⣿⣿⣦⣄⡉⠂⠈⠙⢿⣿⣝⣿    .@nazgalok.music.
 ⠤⢿⡄⠹⣧⣷⣸⡇⠄⠄⠲⢰⣌⣾⣿⣿⣿⣿⣿⣿⣶⣤⣤⡀⠄⠈⠻⢮  ............................................................
 ⠄⢸⣧⠄⢘⢻⣿⡇⢀⣀⠄⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⡀⠄⢀.
 ⠄⠈⣿⡆⢸⣿⣿⣿⣬⣭⣴⣿⣿⣿⣿⣿⣿⣿⣯⠝⠛⠛⠙⢿⡿⠃⠄⢸
