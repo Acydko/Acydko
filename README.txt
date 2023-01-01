@@ -1,5 +1,5 @@
  👋 Hi, I’m @Furukoh
- 👀 I’m interested in learning Python and Sonic-Pi software.
+ 👀 I’m interested in learning Python, C# and Tidal cycles.
  🌱 I’m currently learning Python and Sonic-Pi software.
  💞️ Creator of the online page @livecode.state on Instagram, a page created to spread livecoding music.
  📫 How to reach me? You can DM me on Instagram at @Furukoh
